@@ -1,2 +1,9 @@
 # webdev
-A webdev repository.
+A webdev repository
+
+# Teacher
+Shradha Khapra
+
+# Student 
+Vivek Modi
+
